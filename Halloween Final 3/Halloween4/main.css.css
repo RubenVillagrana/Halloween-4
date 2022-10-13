@@ -1,6 +1,8 @@
 html {
 	background-image: url("../images/bats.gif");	
 }
+a { color: orange;
+}
 body {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	max-width: 960px;
@@ -30,12 +32,11 @@ header img {
 } 
 header h2 {
 	font-size: 230%;
-}
+	}
 header h3 {
 	font-size: 125%;
 	padding-bottom: .75em;
 }
-
 /* Navigation menu */
 #nav_menu {
 	clear: left;
